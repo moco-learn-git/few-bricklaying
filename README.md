@@ -5,5 +5,5 @@ During this skill test, a student will have to:
 - Clone the project
 - Make a change to the project
 - Merge changes from upstream
-- Commit and Push to your fork
-- Create a Pull Request
+- Commit and push to your fork
+- Create a pull request
